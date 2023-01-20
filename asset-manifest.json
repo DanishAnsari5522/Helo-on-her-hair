@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Helo-on-her-hair/static/css/main.aab97df8.css",
+    "main.js": "/Helo-on-her-hair/static/js/main.4f7e9fba.js",
+    "static/media/three.jpg": "/Helo-on-her-hair/static/media/three.f2664f1c12c105b1f359.jpg",
+    "static/media/2.jpg": "/Helo-on-her-hair/static/media/2.cd9da24134b9345a5713.jpg",
+    "static/media/1.jpg": "/Helo-on-her-hair/static/media/1.b0a5611f5ae79ffbf24c.jpg",
+    "static/media/one.png": "/Helo-on-her-hair/static/media/one.c05800151a95b2823aaa.png",
+    "static/media/two.png": "/Helo-on-her-hair/static/media/two.147ea3bcb5222d00d148.png",
+    "index.html": "/Helo-on-her-hair/index.html",
+    "main.aab97df8.css.map": "/Helo-on-her-hair/static/css/main.aab97df8.css.map",
+    "main.4f7e9fba.js.map": "/Helo-on-her-hair/static/js/main.4f7e9fba.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aab97df8.css",
+    "static/js/main.4f7e9fba.js"
+  ]
+}
