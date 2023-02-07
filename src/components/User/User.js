@@ -71,7 +71,7 @@ function User() {
                         <option value="Female">Female</option>
                     </Form.Select>
                 </Form.Group>
-                <Button type="submit" onClick={onsubmit}>Update Product</Button>
+                <Button type="submit" onClick={onsubmit}>Register</Button>
             </fieldset>
             {/* </Form> */}
         </>
