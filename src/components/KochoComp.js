@@ -30,7 +30,7 @@ function KochoComp(props) {
                     // alert("Select the Category");
                 } else {
                     // navigation.navigate('Home');
-                    alert("Submit successfully");
+                    alert("Added to cart");
                     window.location.replace("/Cart");
 
                 }
