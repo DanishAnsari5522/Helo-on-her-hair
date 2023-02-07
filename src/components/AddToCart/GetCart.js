@@ -47,7 +47,7 @@ function GetCart() {
         setPrice(count)
 
        
-        let url="https://wa.me/9262786676?text="
+        let url="https://wa.me/9471784941?text="
         +`item:${category}`
         +`total:${count}`
         window.open(url,'_blank').focus();
