@@ -48,9 +48,12 @@ function GetCart() {
 
        
         let url="https://wa.me/9471784941?text="
-        +`item:${category}`
+        +`item:-${category}`
+        +`%0a`
+        +'Shipping charges:-80'
         +`%0a`
         +`total:${count}`
+        +'%0a'
         window.open(url,'_blank').focus();
     }
 
